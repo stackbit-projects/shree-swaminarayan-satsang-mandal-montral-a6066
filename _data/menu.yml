@@ -1,8 +1,8 @@
 - title: About
   url: /about.html
-
 - title: Source
-  url: https://github.com/patdryburgh/hitchens
-
+  url: 'https://github.com/patdryburgh/hitchens'
 - title: Designer
-  url: http://patdryburgh.com
+  url: 'http://patdryburgh.com'
+- title: lorem-ipsum
+  url: lorem-ipsum
